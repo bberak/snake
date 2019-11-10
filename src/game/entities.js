@@ -32,7 +32,7 @@ export default async () => {
 		container,
 		direction: new THREE.Vector3(1, 0, 0),
 		wall: Wall({ parent: container }),
-		segment: Segment({ parent: container, scale: 0.2, z: 0.55 })
+		segment: Segment({ parent: container, scale: 0.05, z: 0.55 })
 	}
 
 	return entities;
