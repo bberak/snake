@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Cubico",
-    "slug": "cubico",
+    "name": "Snake",
+    "slug": "snake",
     "privacy": "public",
     "sdkVersion": "33.0.0",
     "platforms": ["ios", "android"],
